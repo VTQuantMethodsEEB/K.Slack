@@ -36,3 +36,6 @@ F1<- aggregate(logleech~Site+Date+Leech.bites,FUN=mean,data = blooddat)
 #table
 tab1<- table(blooddat$Site,blooddat$Leeches_Total)
 print(tab1)
+
+
+#testing git code changes
