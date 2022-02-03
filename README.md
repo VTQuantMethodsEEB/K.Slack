@@ -12,7 +12,13 @@
 
 #I learned how to read a file into R and do some basic calculations to familiarize myself with the software such as making a table and aggregating the data.
 
+##week 2## Tidy and Git
 
+#code:Kslack_assignment2.R
+
+#data:BloodMetrics_20_21.csv
+
+#I used script to clean up the errors in my data. I used the Tidyvers and dplyr packages for grouping, summary tables, and mutating my data. 
 
 
 
