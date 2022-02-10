@@ -21,4 +21,12 @@
 #I used script to clean up the errors in my data. I used the Tidyvers and dplyr packages for grouping, summary tables, and mutating my data. 
 
 
+##Week 3##
+
+#code: week3_KateySlack.R
+
+#data:BloodMetrics_20_21.csv
+
+#I used ggplot to look at the distribution of hellbenders harboring leeches and the number of leech bites across my study sites using points and box plots, with my sites on the x axis and leeches/leechbites on the y axis. Even afer I transformed the data, the plots were still pretty difficult to read. I then looked at how the number of leeches and leech bites varied across the parental care period using date as the x axis, leeches/leechbites on the y axis, and colored the points by site. The plots were much easier to interpret and I could tell that hellbenders at the "762" study site had more leeches and leech bites compared to the other study sites.
+
 
