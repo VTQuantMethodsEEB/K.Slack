@@ -5,6 +5,10 @@ blooddat<-read.csv("BloodMetrics_20_21.csv")
 
 ##Note to Kate## I think its in tidy format?? but I was a bit confused on long vs wide and the internet wasn't very helpful
 
+#KL: It's actually in wide format (each blood metric is a column and a row is a salamander)
+# depending on what you want to do, you might want a column for 'blood_metric"
+# and another column for timepoint with salamanders repeated
+
 #load packages
 library(tidyverse)
 library(tidyr)
@@ -26,6 +30,7 @@ str(blooddat)
 ###Note to Kate## if an integer is a number then why is there a separate structure for it?? 
 #And will some code not work if its an integer??
 
+##KL: should be fine! Any integer, number, decimal, ultimately gets treated as a number
 #checking distribution of metrics
 hist(blooddat$TL) #looks like a normal distribution
 hist(blooddat$Mass) #oooooop we found a mistake, histogram shows a value of zero
@@ -52,14 +57,17 @@ blooddat$T60HctX=(blooddat$T60_Hct1+blooddat$T60_Hct2)/2
 blooddat %>% 
   group_by(Site) %>% 
   summarise(T0.Hb=mean(T0HbX,na.rm=TRUE))
+
 #T60 hemoglobin
 blooddat %>% 
   group_by(Site) %>% 
   summarise(T60.Hb=mean(T60HbX,na.rm=TRUE))
+
 #T0 hematocrit
 blooddat %>% 
   group_by(Site) %>% 
   summarise(T0.Hct=mean(T0HctX,na.rm=TRUE))
+
 #T60 hematocrit
 blooddat %>% 
   group_by(Site) %>% 
@@ -70,6 +78,7 @@ summarise(T60.Hct=mean(T60HctX,na.rm=TRUE))
 blooddat %>% 
   group_by(Site) %>% 
   summarise(Leeches=mean(Leeches_Total,na.rm=TRUE))
+
 #leech bites
 blooddat %>% 
   group_by(Site) %>% 
@@ -83,6 +92,17 @@ blooddat_mutate=blooddat %>% #new data frame
 
 ##Mutate differs from summarise by altering the existing data frame and making a new column based on the specifications
 ##summarise doesn't alter the existing data frame, it creates summary tables in the output which can be used to create a new data frame
-  
 
 
+#KL: If you wanted to make the dataframe longer, you could use code from pivot_longer
+#possibly something like this
+blood.long = blooddat %>%
+  select(-TL) %>%
+  pivot_longer(    
+    cols = starts_with(c("T")), #take all the cols that start with 'T'
+    names_to = "blood_variable",
+    values_to = "blood_value"
+    
+)
+
+View(blood.long)

@@ -4,6 +4,8 @@
 #2. reading data into R
 
 blooddat<- read.csv("C:/Users/Katey Slack/Desktop/class stuff/QuantMethods/Slack_QuantitativeMethods/BloodMetrics_20_21.csv")
+#i don't have this directory on my computer, should be:
+blooddat<- read.csv("BloodMetrics_20_21.csv")
 
 View(blooddat)
 
