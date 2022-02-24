@@ -30,3 +30,30 @@
 #I used ggplot to look at the distribution of hellbenders harboring leeches and the number of leech bites across my study sites using points and box plots, with my sites on the x axis and leeches/leechbites on the y axis. Even afer I transformed the data, the plots were still pretty difficult to read. I then looked at how the number of leeches and leech bites varied across the parental care period using date as the x axis, leeches/leechbites on the y axis, and colored the points by site. The plots were much easier to interpret and I could tell that hellbenders at the "762" study site had more leeches and leech bites compared to the other study sites.
 
 
+##Week 4## 
+
+##class disscussion of p-values and its original intents.
+
+
+##Week 5##
+
+#code:week5_KateySlack.R
+
+#data:20_21Waterandblood.csv
+
+#Temperature and dissolved oxygen concentrations in water are inversely related. As temperater decreases across season, hellbender metabolic activity decreases and environmental dissolved oxygen increases. Hellbenders will have less metabloic demands and greater oxygen supply, thus will have less red blood cells in circulation and more in splenic storage. 
+##Hypothesis 1:Hellbender hematocrit and hemoglobin will be negatively correlated to Dissolved Oxygen concentrations. 
+
+
+#Hellbenders engaging in parental behavior will have greater metabolic demands than hellbender not actively maintaining nests. Since there is difference in metabolic demands, there will be a difference in blood metrics.
+##Hypothesis 2: Blood metrics differ between males exibiting parental care and males not maintaining nests
+
+
+#I used pearsons correlation to test my first hypothesis and confirmed my hypothesis that there is a highly significant negative correlation between baseline hematocrit and hemoglobin and environmental dissolved oxygen concentrations. For my second hypthesis, I looked at the different distributions of various blood metrics using ggplot and decided to write a permutation for the blood metric that showed the biggest difference between nesters and nonnesters. I got the p value 0 because there were no residiuals greater than the observed mean. I ran a permutation using the coin package as well as a few different t-test and got a p-value around 0.05 for almost all the tests.
+
+
+
+
+
+
+
