@@ -53,7 +53,14 @@
 
 
 
+##Week 6## No assignment
 
+##Week 7## 
+#code:week7and8_KateySlack.R
+
+#data:20_21Waterandblood.csv
+
+#I used linear models to determine if environmental dissolved oxygen had an influence on baseline hematocrit levels. I checked the assumptions by running diagnostic tests using the residuals to evaluate heteroscedasticity, normality, and leverage points. I then plotted the relationship using ggplot2.  
 
 
 
