@@ -63,4 +63,11 @@
 #I used linear models to determine if environmental dissolved oxygen had an influence on baseline hematocrit levels. I checked the assumptions by running diagnostic tests using the residuals to evaluate heteroscedasticity, normality, and leverage points. I then plotted the relationship using ggplot2.  
 
 
+##Week 8##
+#code:week7and8_KateySlack.R
+
+#data:20_21Waterandblood.csv
+
+#I developed linear models with multiple variables to determine significant relationships between blood metrics and season. I then developed additive models to evaluate if nesting status influenced blood metrics in addition to seasonal effects. I then made an interactive model to see if the change in hematocrit between T0 and T60 depended on mass and presence of open wounds. I plotted my additive model using the predict function. However, I kept getting errors when I tried using the predict function for the interactive model. While my code would not run, I still included the code I would have used to plot the interactive model. 
+
 
