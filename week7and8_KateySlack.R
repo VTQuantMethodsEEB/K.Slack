@@ -107,6 +107,8 @@ plot(allEffects(lmday2))
 #the plots show a large difference at hatching. While there might be a difference in means between nesters and nonnesters, nonnesters have a lot of variability
 
 #Hypothesis: Does the change in hematocrit between T0 and T60 depend on the mass and presence of open wounds?
+
+#KL: not quite - does the effect of mass on D_Hct dependen on how many wounds the animal has?
 lmwounds= lm(D_Hct~Mass.g.*wounds, data=bloodclean2)
 summary(lmwounds)
 plot(allEffects(lmwounds))
@@ -131,20 +133,17 @@ addplot= ggplot(pp,aes(x=sampling.day,y=hct,colour=Status))+
 
 ##plotting the interactive model
 
-#trying  yhat and predict
-bloodclean2$yhat= predict(lmwounds) #predict function will not work for this line
-
 #trying to create new dataframe for predictions
 new.dat.combos <- with(bloodclean2, 
                        expand.grid(wounds=unique(wounds), 
-                                   Mass.g.=seq(min(Mass.g.),max(Mass.g.), by=1))) #getting an error about "finite numbers"
+                                   Mass.g.=seq(min(Mass.g., na.rm=T),max(Mass.g., na.rm=T), by=1))) #getting an error about "finite numbers"
 
 #if my code worked then this I would try to predict the delta hematocrit using the new data frame/combos
 new.dat.combos$hct <- predict(lmwounds,newdata=new.dat.combos)
 
 ###plotting prediction + data 
-intplot= ggplot(new.dat.combos,aes(x=Mass.g.,y=D_Hct,colour=wounds))+ #set up plot using predictions dataset
+intplot= ggplot(new.dat.combos,aes(x=Mass.g.,y=hct,colour=wounds))+ #set up plot using predictions dataset
   geom_line(aes(group=wounds))+ #draw lines that are predictions
   geom_point(data=bloodclean2, aes(x=Mass.g.,y=D_Hct,colour = wounds)) #add the observed data to the plot
-
+intplot
 
