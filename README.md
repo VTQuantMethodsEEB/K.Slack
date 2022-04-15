@@ -70,4 +70,17 @@
 
 #I developed linear models with multiple variables to determine significant relationships between blood metrics and season. I then developed additive models to evaluate if nesting status influenced blood metrics in addition to seasonal effects. I then made an interactive model to see if the change in hematocrit between T0 and T60 depended on mass and presence of open wounds. I plotted my additive model using the predict function. However, I kept getting errors when I tried using the predict function for the interactive model. While my code would not run, I still included the code I would have used to plot the interactive model. 
 
+##Week 10##
+#code: Slack_week10and11.
+#data:20_21Waterandblood.csv
 
+#RESULTS
+
+#Hellbenders possess physiological adaptations that allow them to modify properties of blood during times of increased respiratory demands. Hellbenders harbor leeches which are vectors for blood feeding protozoan parasites, trypanosomes, both of which have the potential to interfere with mechanisms of red blood cell mobilization. We took blood samples from individuals across the parental care period and counted the number of leeches at each capture. I suspect that leech attachment has seasonal differences so I would like to see if the effect of leeches on baseline hematocrit depend on sampling day. I used generalized linear models, with a negative binomial distribution to account overdispersion, to assess how the interaction between total leeches and sampling day affect the response variable, hematocrit. The model revealed there is a significant difference in hematocrit between capures at hatching (p-value= <0.05) compared to other sampling days. The number of leeches did not significantly affect hematocrit and there was no significance between the interaction with sampling days. When plotting the effects, there appears to be a similar trend with vast variability. When plotting the data (plot1) the data was very skewed. Depite adjusting the disribution to account for many zeros, further investigation using alternative distributions like a zero-inflated models might reveal more reliable results. 
+
+
+##Week 11##
+#code: Slack_week10and11.
+#data:20_21Waterandblood.csv
+
+#I used likelihood ratio tests and AIC tests to compare models in order to determine if sampling day, leeches, and open wounds have an effect on baseline hematocrit. Both methods delivered similar results in terms of model ranking, however likelihood ratio was more informative in regard to identifying significant factors. 
