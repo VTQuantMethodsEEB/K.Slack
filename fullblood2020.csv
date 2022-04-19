@@ -1,0 +1,501 @@
+Site,Season,Date,Sampling.day,PIT,24hrMedC,Status,T0_HB1,T0_HB2,T0HB,T60_HB1,T60_HB2,T60HB,D_HB,T0_Hct1,T0_Hct2,T0Hct,T60_Hct1,T60_Hct2,T60Hct,D_Hct,Sexual_Characteristics (0 - 3),With_Nest,TL(cm),SVL(cm),Mass(g),Abnormalities,Wounds,MesoHabitat,Cover,Box_Number,Water_Depth(cm),Leeches_P1,Leeches_P2,Leeches_Tub_Towel,Leeches_Total,Notes,Leech bites,Tryps_YN,Tryps_BC1,Tryps_BC2,Tryps_TotalBC,Polychromasia,Total_Neut,Lymphocytes,Mature Neutrophils,Toxic Mature Neutro,Immature Neutro,Toxic Immature Neutrophils,Eosinophils,Basophils,monocytes,Tryps_WholeBlood,WBC Rack,Total_WBCs,Prop.AllNeut,Prop.Lymph,Prop.MatNeut,Prop.TMN,Prop.IN,Prop.ITN,Prop.eosin,Prop. Baso,Prop. Mono,N:Lratio,IMNratio,TNratio,ITNratio,B:Eratio,EstRBC.50,Prop.poly
+Buller Hatchery,2020,9/6/2020,Oviposition,083242,16.15,nester,10.4,11.3,10.85,13.7,14.5,14.1,3.25,42,41,41.5,52,57,54.5,13,2,Yes,45.4,28.5,590,n,n,Run/Glide,CAMERABOX,8,62,0,0,0,0,"T60 Hemoglobin: 13.7, 14.5
+T60 Hematocrit: 52, 57
+
+T0 EC8+:pH 7.545, pCO2 13.8, HCO3 12, BE -11, TCO2 12, Na 101, IC 2.9, Cl 78, AnGap 14, Glu <20, Bun <3, HCT 35, Hb 11.9.
+
+T60 EC8+ pH 7.098, PCO2 25.6, HCO3 7.9, BE -22, TCO2 9, Na 106, K 3.2, Cl 85, Angap 16, Glu <20, Bun <3, Hct 48, Hb 16.3
+
+Healthy male guarding eggs in Camera box! Another adult hanging out 1 meter US of box (did not scan), hour later the male sat on top of box- scanned it this time (065620, previous nester)grey nose, did not capture had grey nose as distinghuiable characteristics.",0,Y,24,23,47,30,45,96,11,23,0,11,5,7,2,7,59,155,0.290322581,0.619354839,0.070967742,0.148387097,0,0.070967742,0.032258065,0.04516129,0.012903226,0.46875,0.323529412,3.090909091,#DIV/0!,1.4,4206.0505,1%
+Buller Hatchery,2020,9/6/2020,Oviposition,557148,16.15,nester,7.8,8.5,8.15,9.8,10.1,9.95,1.8,24,28,26,37,37,37,11,2,Yes,,31.9,640,n,y,Run/Glide,nestbox,307,31,0,0,0,0,"T60 Hemoglobin 9.8, 10.1
+T60 Hematocrit 37, 37
+Total length was  INCORRECT and is deletedon June 14, 2021 (JG)
+T0 EC8+: pH 7.556, pCO2 13.2, HCO3 11.7, BE -11, tCO2 12, Na 101, IC 2.3, Cl 78, AnGap 14, Glu <20, Bun <3, Hct 29, Hb 9.9
+
+T60 EC8+:pH 7.139, pCO2 27.8, HCO3 9.5, Be -20, TCO2 10, Na 104, K 3, Cl 85, AnGap 13, Glu <20, Bun <3, Hct 24, Hb 8.2
+
+Fresh bite open wound right back leg, orange tumor left top back. Male guarding eggs, looks a litlle unhealthy and thin, lots of smile during processing",0,Y,14,15,29,31,112,51,10,76,3,23,1,7,0,2,59,171,0.65497076,0.298245614,0.058479532,0.444444444,0.01754386,0.134502924,0.005847953,0.040935673,0,2.196078431,0.302325581,7.615384615,7.666666667,7,3793.022,1%
+Buller Hatchery,2020,9/6/2020,Oviposition,557891,16.15,nester,11.1,10.8,10.95,11.1,11.3,11.2,0.25,38,39,38.5,48,49,48.5,10,2,Yes,48.2,30.4,620,n,n,Run/Glide,CAMERABOX 4,-344,54,0,0,0,0,"T60 hemoglobin 11.1,11.3
+T60 hematocrit 48,49
+
+T0 EC8+ pH 7.591, pCO2 10.3, HCO3 9.9, BE -12, TCO2 10, Na 103, K 2.4, Cl 81, AnGap 14, Glu 21, Bun <3, Hct 34%, Hb 11.6
+
+T60 Ec8+ pH 7.160, pCO2 22.6, HCO3 8, BE -21, TCO2 9, Na 108, K 2.7, Cl 86, AnGap 16, Glu 24, Bun <3, Hct 41%, Hb 13.9
+
+Very healthy male, in nearly perfect condition, very fat. Possible cannibal, palped him-> could not get him to regurgerate",0,N,0,0,0,86,44,86,9,25,0,10,20,18,0,0,59,168,0.261904762,0.511904762,0.053571429,0.148809524,0,0.05952381,0.119047619,0.107142857,0,0.511627907,0.294117647,3.888888889,#DIV/0!,0.9,4126.1095,2%
+Buller Hatchery,2020,9/6/2020,Oviposition,914031,16.15,nester,11.8,12.7,12.25,16.9,17.1,17,4.75,48,48,48,61,59,60,12,2,Yes,47,,580,y,n,Run/Glide,nestbox,341,49,0,0,0,0,"T60 hemoglobin 16.9, 17.1
+T60 Hematocrit 61, 59
+
+T0 EC8+: Ph 7.585, pCo2 12.8, HCO3 12.2, BE -10, TCO2 13, Na 100, K 3, Cl 81, AnGap 10, Glu <20, Bun <3, Hct 37%, Hb 12.6
+T60 Glu <20
+
+Healthy male guarding the eggs.
+******SVL was INCORRECT and deleted on June 14, 2021 (JG)
+
+Missing entire left rear foot",0,Y,21,8,29,45,33,145,20,13,0,0,32,7,0,0,59,217,0.152073733,0.668202765,0.092165899,0.059907834,0,0,0.147465438,0.032258065,0,0.227586207,0,0.65,#DIV/0!,0.21875,4379.256,1%
+Buller Hatchery,2020,9/7/2020,Oviposition,565092,16.09,nester,9,9.2,9.1,12.6,13.8,13.2,4.1,35,34,34.5,48,51,49.5,15,2,Yes,39.2,24.8,340,n,n,Run/Glide,nestbox,325,39,1,1,0,1,"T60 hemoglobin 12.6, 13.8
+T60 hematocrit 48,51
+
+Healthy young male, guarding eggs",0,Y,6,6,12,23,49,116,11,28,1,9,8,13,3,0,59,189,0.259259259,0.613756614,0.058201058,0.148148148,0.005291005,0.047619048,0.042328042,0.068783069,0.015873016,0.422413793,0.256410256,3.083333333,9,1.625,4019.5215,1%
+762_Bridge,2020,9/9/2020,Oviposition,563915,18.56,nester,11.8,12.3,12.05,11.5,12,11.75,0.3,47,44,45.5,48,47,47.5,2,2,Yes,42.4,26.8,440,n,n,Run/Glide,CAMERABOX,433,70.5,0,0,0,0,"T60 hemoglobin 11.5, 12
+T60 hematocrit 48, 47
+
+T0 Ec8+ pH 7.531, pCO2 14.2, HCO3 11.9, BE -11, TCO2 12, Na 103, K 2.9, Cl 80, Angap 14, Glu <20, bun <3, Hct 36%, Hb+ 12.2
+
+T60 ec8+ pH 7.078, pCO2 31.5, Hco3 9.3, BE -21, TCO2 10, Na 104, K 3.1, Cl 84, Angap 14, Glu 24, Bun <3, Hc 39%, Hb 13.3
+
+Healthy male, guarding eggs. Producing lots of sticky white foam
+
+Small adult hellbender on top of box, went in box, not tagged (scanned not capture)",0,Y,22,3,25,113,91,76,47,39,0,5,5,17,1,1,59,190,0.478947368,0.4,0.247368421,0.205263158,0,0.026315789,0.026315789,0.089473684,0.005263158,1.197368421,0.058139535,0.936170213,#DIV/0!,3.4,4312.6385,3%
+762_Bridge,2020,9/9/2020,Oviposition,674701,18.56,nester,12.1,11.4,11.75,13.7,14,13.85,2.1,46,47,46.5,48,53,50.5,4,2,Yes,42.5,26.8,490,n,n,Run/Glide,nestbox,402,34,4,4,1,5,"T60 hemoglobin 13.7, 14.1
+T60 hematocrit 48, 53 
+
+T0 EC8+: pH 7.473, pCo2 15.1, Hco3 11, BE -13, TCO2 12, Na 100, K 2.5, Cl 78, AnGap 14, Glu <20, Bun <3, Hct 38%, Hb 12.9.
+
+T60 EC8+ pH 7.203, PCO2 25.7, HCO3 10.1, BE-18, TCO2 11, Na 100, K 2.8, Cl 85, AnGap 7, Glu <20, Bun <3, Hct 39%, Hb 13.3
+
+Healthy adult male, guarding eggs
+
+Adult hellbender on top of box, scanned (female 658257)
+
+14:10 another small untagged hellbender climbed on top of the box",0,Y,16,48,64,31,93,158,26,63,0,4,12,19,1,1,59,283,0.328621908,0.558303887,0.091872792,0.222614841,0,0.014134276,0.042402827,0.067137809,0.003533569,0.588607595,0.04494382,2.576923077,#DIV/0!,1.583333333,4339.2855,1%
+Thomas Bridge,2020,9/9/2020,Oviposition,868832,17.69722222,nester,9.1,9.1,9.1,12,11.9,11.95,2.85,34,36,35,44,42,43,8,3,Yes,49.6,29.9,740,n,n,Run/Glide,nestbox,-268,40,0,0,0,0,"T60 hemoglobin 12, 11.9
+T60 hematcrit 44,42
+
+T0 EC8+ test failed airbubble in cartridge
+T60 EC8+ pH 7.122, pCO2 26.3, HCO3 8.6, BE -21, TCO2 9, Na 103, K 2.9, Cl 87, AnGap 10, Glu <20, Bun <3, Hct 38, Hb 12.9
+
+Healthy adult with eggs, lots of fat in tail",0,N,0,0,0,53,53,182,12,37,0,4,17,9,2,0,59,263,0.201520913,0.692015209,0.045627376,0.140684411,0,0.015209125,0.064638783,0.034220532,0.007604563,0.291208791,0.081632653,3.416666667,#DIV/0!,0.529411765,4032.845,1%
+Buller Hatchery,2020,9/10/2020,Oviposition,092271,17.14444444,nester,7.5,7.9,7.7,11.8,12.9,12.35,4.65,27,29,28,42,45,43.5,15.5,2,Yes,46.5,29.4,650,n,y,Run/Glide,nestbox,310,32,3,3,2,5,"T60 hemoglobin 11.8, 12.9
+T60 hematocrit 42,45
+
+CAPTURE TIME and T0 ARE INCORRECT 
+
+T0 ec8+ pH 7.561, pCO2 13.6, HCO3 12.2, BE -10, TCO2 13, Na 101, K 2.5, Cl 79, AnGap 13, Glu <20 Bun<3, HCT 23%, Hb 7.8
+
+Healthy adult with eggs, very large bite on head (open on top of head)",1,Y,19,20,39,14,76,111,33,38,2,3,16,13,1,0,59,217,0.350230415,0.511520737,0.152073733,0.175115207,0.00921659,0.013824885,0.073732719,0.059907834,0.004608295,0.684684685,0.070422535,1.171428571,1.5,0.8125,3846.316,0%
+762_Bridge,2020,9/11/2020,Oviposition,434405,19.24,nester,7,7.1,7.05,11.6,11.2,11.4,4.35,31,32,31.5,41,42,41.5,10,2,Yes,41.6,26.9,420,n,n,Run/Glide,nestbox,-138,32.5,38,38,7,45,"T60 hemoglobin 11.6, 11.2
+T60 hematocrit 41, 42
+
+Healthy male with eggs. Covered with leeches and leech bites. Pooped in bin",159,Y,76,59,135,151,159,249,43,102,0,14,66,19,3,16,59,496,0.320564516,0.502016129,0.086693548,0.205645161,0,0.028225806,0.133064516,0.038306452,0.006048387,0.638554217,0.096551724,2.697674419,#DIV/0!,0.287878788,3939.5805,4%
+762_Bridge,2020,9/11/2020,Oviposition,564980,19.24,nester,9.2,10,9.6,12.9,12.8,12.85,3.25,,,NA,48,49,48.5,,2,Yes,39.9,24.5,410,n,n,Run/Glide,nestbox,528,37.5,0,0,0,0,"T60 hemoglobin 12.9, 12.8. T60 hematocrit 48, 49
+
+T0 EC8+ pH 7.452, pCO2 15.9, HCO3 11.1, BE -13, TCO2 12, Na 100, K 2.9, Cl 79, AnGap 13, Glu <20, Bun <3 Hct 32%, Hb 10.9
+T60 EC8+ pH 7.017, pCO2 27.6, HCO3 8, BE -22, TCO2 9, Na 105, K 2.9, Cl 86, AnGap 14, Glu <20, Bun <3, Hct 40% HB 13.6
+
+Healthy male with eggs, very good looking, hardly any marks",0,Y,59,85,144,77,112,266,13,74,0,25,40,20,1,12,59,439,0.255125285,0.605922551,0.029612756,0.16856492,0,0.056947608,0.091116173,0.045558087,0.002277904,0.421052632,0.287356322,7.615384615,#DIV/0!,0.5,#VALUE!,#VALUE!
+762_Bridge,2020,9/11/2020,Oviposition,570A13,19.24,nester,12.1,12.1,12.1,11.7,12.6,12.15,0.05,42,41,41.5,48,49,48.5,7,2,Yes,47.8,30.4,620,n,y,Run/Glide,nestbox,-193,38.5,1,1,0,1,"T60 hemoglobin 11.7, 12.6
+T60 hematocrit 48, 49
+
+T0 EC8+ pH 7.517, pCO2 16, HCO3 13, BE -10, TCO2 13, Na <100, Glu <20
+T60 EC8+ pH 6.961, PCO2 36.7, HCO3 8.3, BE -24, TCO2 9, Na 103, K 3, Cl 82, AnGap 15, Glu <20, Bun <3, Hct 41%, Hb 13.9
+
+Healthy adult, first caught in 2008!! Looks good has been pretty beaten up in combat. Super fiesty!!",2,Y,30,23,53,33,80,132,15,58,0,7,10,22,2,1,59,246,0.325203252,0.536585366,0.06097561,0.235772358,0,0.028455285,0.040650407,0.089430894,0.008130081,0.606060606,0.095890411,4.333333333,#DIV/0!,2.2,4206.0505,1%
+Thomas Bridge,2020,9/12/2020,Oviposition,557083,18.55555556,nester,7.7,8.4,8.05,13.1,13.1,13.1,5.05,29,30,29.5,53,53,53,23.5,3,Yes,42.9,27.2,460,n,n,Run/Glide,CAMERABOX,-221,46,0,0,0,0,"T60 hemoglobin 13.1, 13.1
+T60 hematocrit 53,53
+
+EC8+ pH 7.507, pCO2 13.2, HCO3 10.5, BE -13, TCO2 11, Na 104, K 2.7, Cl 83, AnGap 13, Glu <20, Bun<3, Hct 30% Hb 10.2
+EC8+  pH 7.033, pCO2 28.9, HCO3 7.7, BE -23, TCO2 9, Na 107, K 3.4, Cl 89, AnGap 14, Glu<20, Bun <3, Hct 43%, Hb 14.6
+
+Healthy male with eggs, no mark on body",0,Y,5,5,10,68,31,119,3,21,0,7,19,9,1,0,59,179,0.173184358,0.664804469,0.016759777,0.117318436,0,0.039106145,0.106145251,0.05027933,0.005586592,0.260504202,0.291666667,9.333333333,#DIV/0!,0.473684211,3886.2865,2%
+Thomas Bridge,2020,9/12/2020,Oviposition,557769,18.55555556,nester,10.4,11.1,10.75,11.8,12.6,12.2,1.45,42,41,41.5,52,52,52,10.5,2,Yes,44.9,29.4,640,n,n,Run/Glide,nest box,-332,28.5,0,0,0,0,"T60 hemoglobin 11.8,12.6
+T60 hematocrit 52,52
+
+T0 EC8+ pH 7.453, pCO2 14.6, HCO3 10.2, BE -14, tCO2 11, Na <100, Glu <20
+T60 EC8+ pH 7.005, pCO2 29.8 , HCO3 7.4 BE -24, TCO2 8, Na 102, K2.9, Cl 85, AnGap 12, Glu <20, Bun <3, HCT 44%, Hb 15
+
+Healthy male with eggs. Captured small hellbender on top of box under cover rock (see datasheet animal #566945)",0,Y,8,7,15,85,46,111,5,31,0,10,12,9,0,0,59,178,0.258426966,0.623595506,0.028089888,0.174157303,0,0.056179775,0.06741573,0.050561798,0,0.414414414,0.277777778,8.2,#DIV/0!,0.75,4206.0505,2%
+Thomas Bridge,2020,9/12/2020,Oviposition,563788,18.55555556,nester,8.3,9.6,8.95,11.1,12,11.55,2.6,33,34,33.5,45,48,46.5,13,2,Yes,45.6,29.1,475,n,y,Run/Glide,CAMERABOX,-337,44.5,0,0,0,0,"T60 hemoglobin 11.1. 12
+T60 hematocrit 45, 48
+
+T0 EC8+ pH 7.432, pCO2 13.3, HCO3 8.8, BE -15, tCO2 9, Na 100, K 2.8, Cl 79, AnGap 16, Glu <20, Bun <3, Hct 30%, Hb 10.2
+T60 EC8+ pH 6.994, pCO2 29.1, HCO3 7.1, BE -24, TCO2 8, Na 106,K 2.7, CL 86 Nagab 16 , Glu <20, Bun <3, HCT 39%, Hb 13.3
+
+Healthy adult with eggs",0,Y,27,22,49,203,132,275,24,86,0,22,38,22,2,2,59,469,0.281449893,0.586353945,0.051172708,0.18336887,0,0.046908316,0.081023454,0.046908316,0.004264392,0.48,0.2,4.5,#DIV/0!,0.578947368,3992.8745,5%
+Buller Hatchery,2020,9/12/2020,Oviposition,563905,17.45555556,nester,8.1,8.1,8.1,11.5,12,11.75,3.65,32,32,32,47,47,47,15,2,Yes,44.3,26.9,410,y,n,Run/Glide,nestbox,319,25.5,0,0,0,0,"T60 hemoglobin 11.5, 12
+T60 hematocrit 47,47
+
+T0 EC8+ pH 7.472, pCO2 15.9, HCO3, 11.6, BE -12, tCO2 12, Na 102, K 2.8, Cl 81, AnGap 13, Glu <20, Bun <3, HCT 37%, Hb 12.6
+
+T60 EC8+ pH 7.121, pCO2 28.8, HCO3 9.4, BE -20, TCO2 10, Na 105, K2.9, Cl 85, AnGap 14, Glu <20, Bun <3, HCT 40%, Hb 13.6
+
+Healthy male with eggs",0,Y,24,17,41,70,47,235,8,24,1,14,19,13,0,1,59,314,0.149681529,0.748407643,0.025477707,0.076433121,0.003184713,0.044585987,0.060509554,0.041401274,0,0.2,0.46875,4.222222222,14,0.684210526,3952.904,2%
+Buller Hatchery,2020,9/13/2020,Oviposition,080277,17.383,nester,10.9,11.2,11.05,12.8,13,12.9,1.85,39,42,40.5,52,51,51.5,11,2,Yes,43.4,28,450,y,n,Run/Glide,nest box,328,28,0,0,0,0,"Healthy male with eggs. Lots of scars and bite wounds. 6 toes!
+
+T60 hemoglobin 12.8,13
+T60 hematocrit 52,51
+
+T0 EC8+pH 7.480, pCO2 14.8, HCO3 11, BE -12, TCO3 11, Na 100, K 2.7, Cl 78, AnGap 13, Glu <20, Bun <3, Hct 36%, Hb 12.2
+
+T60 EC8+ pH 7.093,pCO2 26.7, HCO3 8.1, BE -22, TCO2 9, Na 104, K 3.1, Cl 84, AnGap 15, Glu <20, Bun <3, HCT 44%, Hb 15",0,Y,51,35,86,47,54,180,13,38,0,3,23,4,1,3,60,262,0.20610687,0.687022901,0.049618321,0.145038168,0,0.011450382,0.08778626,0.015267176,0.003816794,0.3,0.058823529,3.153846154,#DIV/0!,0.173913043,4179.4035,1%
+Thomas Bridge,2020,9/13/2020,Oviposition,565780,18.35555556,nester,10.5,11,10.75,11,12.2,11.6,0.85,39,38,38.5,58,53,55.5,17,3,Yes,42.8,26.6,440,n,n,Run/Glide,CAMERABOX,-96,40,0,0,0,0,"T60 hemoglobin 11,12.2
+T60 hametocrit 53,58
+
+T0 EC8+ pH 7.347, pCO2 19.3, HCO3 10.6, BE -15, TCO2 11, Na 103, K 3.4, Cl 82, AnGap 14, Glu<20, Bun <3, HCT 35%, Hb 11.9
+
+T60 EC8+ pH6.864, pCO2 38.9, HCO3 7, BE -26, TCO2 8, Na<100, Glu <20
+
+Free roaming male outside camera box 96, sitting next to box opened box no animal inside. Grabbed this male. In total male has been watching us for about 5 minutes before catching it. No marks mint condition.",0,N,0,0,0,109,61,176,30,25,0,6,4,14,0,0,60,255,0.239215686,0.690196078,0.117647059,0.098039216,0,0.023529412,0.015686275,0.054901961,0,0.346590909,0.109090909,1.033333333,#DIV/0!,3.5,4126.1095,3%
+Thomas Bridge,2020,9/13/2020,Oviposition,565923,18.35555556,nester,13.6,13.3,13.45,13.5,13.3,13.4,0.05,52,51,51.5,56,58,57,5.5,2,Yes,41.4,27.3,425,n,y,Run/Glide,nest box,338,26,0,0,0,0,"T60 hemoglobin 13.5, 13.6
+T60 hematocrit 56,58
+
+T0 EC8+ pH 7.429, pCO2 18.9, HCO3 12.5, BE -12, tCO2 13, NA <100, Glu <20
+
+Healthy male adult with eggs. Big fresh bender bite on head. 2 distinct cluchtes in box. Kept them separate for rearing system in lab A/B (n=15 each)",0,Y,5,3,8,199,95,261,54,31,5,5,10,7,1,0,60,374,0.254010695,0.697860963,0.144385027,0.082887701,0.013368984,0.013368984,0.026737968,0.018716578,0.002673797,0.363984674,0.117647059,0.610169492,1,0.7,4472.5205,4%
+Buller Hatchery,2020,9/13/2020,Oviposition,918420,17.383,nester,10.3,11.3,10.8,12.7,13.9,13.3,2.5,43,43,43,53,54,53.5,10.5,3,Yes,43.1,28,510,n,n,Run/Glide,nest box,327,36,0,0,0,0,"T60 hemoglobin 12.7, 13.9
+T60 hematocrit 53,54
+
+T0 EC8+ pH 7.523, pCO2 13.8, HCO3 11.4, BE -11, tCO2 12, Na <100, Glu <20
+T60 EC8+ pH 7.082, pCO2 28.6, HCO3 8.5, BE -21, TCO3 9, Na 102, K3.4, Cl 82, AnGap 15, Glu<20, Bun <3, Hct 41% , Hb 13.9
+
+Healthy male with eggs,
+When male returned he kicked out 5 eggs, Becca stuck them back in tunnel but could not get them in nest chamber",0,Y,24,30,54,12,86,163,17,46,6,17,21,9,2,2,60,281,0.306049822,0.580071174,0.060498221,0.163701068,0.021352313,0.060498221,0.074733096,0.03202847,0.007117438,0.527607362,0.365079365,2.739130435,2.833333333,0.428571429,4246.021,0%
+RiversideCC,2020,9/14/2020,Oviposition,083649,18.15,nester,10.8,11.7,11.25,12.7,13.4,13.05,1.8,37,38,37.5,50,53,51.5,14,2,Yes,45,27.6,480,n,n,Run/Glide,CAMERA BOX,151,42,0,0,0,0,"T60 hemoglobin 12.7, 13.4
+T60 hematocrit 50, 53
+
+T0 EC8+ pH 7.487, pCO2 13.3, HCO3 10, BE -13, TCO2 10, Na 102, K 2.4, Cl 80, AnGap 15, Glu <20, Bun <3, Hct 35%, Hb 11.9
+T60 EC8+ Ph 7.117, pCO2 25.1, HCO3 8.1, BE -21, TCO2 9, Na 106, K 2.9, Cl 87, AnGap 14, Glu <20, Bun <3, Hct 45%, Hb 15.3
+
+Healthy male with eggs in camera box",0,Y,27,36,63,38,99,167,35,40,1,23,23,6,1,1,60,296,0.334459459,0.564189189,0.118243243,0.135135135,0.003378378,0.077702703,0.077702703,0.02027027,0.003378378,0.592814371,0.32,1.75,23,0.260869565,4099.4625,1%
+RiversideCC,2020,9/14/2020,Oviposition,567248,18.15,nester,10.5,10.5,10.5,10.8,12.3,11.55,1.05,41,39,40,47,46,46.5,6.5,3,Yes,37.1,23.6,305,n,y,Run/Glide,CAMERABOX,431,73,10,10,2,12,"T60 hemoglobin  10.8, 12.3
+T60 hematocrit 47, 46
+
+Healthy small male with eggs. Open bite wound all around front leg",5,Y,33,58,91,264,162,176,53,71,2,36,45,28,4,3,60,415,0.390361446,0.424096386,0.127710843,0.171084337,0.004819277,0.086746988,0.108433735,0.06746988,0.009638554,0.920454545,0.306451613,1.945454545,18,0.622222222,4166.08,6%
+762_Bridge,2020,9/14/2020,Oviposition,981561,19.14,nester,7.6,7.6,7.6,11.3,10.8,11.05,3.45,28,29,28.5,45,47,46,17.5,2,Yes,42,26.4,500,n,n,Run/Glide,nest box,424,28.5,2,2,0,2,"T60 hemoglobin 11.3, 10.8
+T60 hematocrit 45, 47
+
+Healthy male with eggs",3,Y,69,150,219,115,65,206,38,10,6,11,37,2,5,10,60,315,0.206349206,0.653968254,0.120634921,0.031746032,0.019047619,0.034920635,0.117460317,0.006349206,0.015873016,0.315533981,0.354166667,0.477272727,1.833333333,0.054054054,3859.6395,3%
+RiversideCC,2020,9/15/2020,Oviposition,194035,17.25555556,nester,9.6,10.1,9.85,13,13.3,13.15,3.3,39,38,38.5,51,48,49.5,11,2,Yes,42.9,26.8,550,n,n,Run/Glide,nest box,406,31.5,0,0,0,0,"T60 hemoglobin 13, 13.3
+T60 Hematocrit 51, 48
+
+T0 EC8+ pH 7.563, PCO2 12.6, HCO3 11.3, BE-11, TCO2 12, Na 101, K 2.1, Cl 77, AnGap 15, Glu <20, Bun <3, Hct 33%, Hb 11.2
+
+T60 EC8+ pH 7.126, pCO2 29.1, HCO3 9.6, BE -20, tCO2 10, Na 103, K 2.6, Cl 82, AnGap 14, Glu <20, Bun <3, HCT 41%, Hb 13.9
+
+Healthy male with eggs",5,Y,13,10,23,64,131,121,31,48,5,47,39,10,1,6,60,302,0.433774834,0.400662252,0.102649007,0.158940397,0.016556291,0.155629139,0.129139073,0.033112583,0.003311258,1.082644628,0.658227848,2.638888889,9.4,0.256410256,4126.1095,2%
+Thomas Bridge,2020,9/15/2020,Oviposition,567097,17.25555556,nester,10.3,10.4,10.35,12.9,12.7,12.8,2.45,37,37,37,49,40,44.5,7.5,2,Yes,45.4,27.8,450,n,n,Run/Glide,nest box,-334,29,0,0,0,0,"T60 hemoglobin 12.9,12.7
+T60 hematocrit 49,50
+
+T0 EC8+ pH 7.530, pCO2 10.9, HCO3 9.1, BE -14, TCO2 9, Na <100, Glu <20
+
+Healthy adult male with eggs",0,N,0,0,0,17,45,142,15,12,11,7,12,5,1,0,60,205,0.219512195,0.692682927,0.073170732,0.058536585,0.053658537,0.034146341,0.058536585,0.024390244,0.004878049,0.316901408,0.666666667,0.730769231,0.636363636,0.416666667,4086.139,0%
+Thomas Bridge,2020,9/15/2020,Oviposition,567111,17.25555556,nester,12.4,10.8,11.6,12.7,13.8,13.25,1.65,43,46,44.5,50,53,51.5,7,2,Yes,42.1,26.9,440,n,n,Run/Glide,nest box,-289,29,3,3,0,3,"T60 hemoglobi 12.7, 13.9
+T60 hematocrit 50,53
+
+T) EC8+ pH 7.350, pCO2 19.3, HCO3 10.6, BE -15, TCO2 11, Na <100, Glu <20
+
+Healthy male adult with apparently cannibalized or predated eggs , only eleven left. Full belly , palpated and could not get him to regurgitate anything. Seems unlikely that he could have eaten the entire clutch in a couple of days. So, predation possible. Also possible that eggs have been kicked out  of the nest since three were found outside the nest.
+
+*See October datasheet-> SVL seems likely a full cm too long",4,Y,16,34,50,81,80,156,53,20,3,4,40,9,0,1,60,285,0.280701754,0.547368421,0.185964912,0.070175439,0.010526316,0.014035088,0.140350877,0.031578947,0,0.512820513,0.095890411,0.428571429,1.333333333,0.225,4285.9915,2%
+RiversideCC,2020,9/15/2020,Oviposition,567422,17.25555556,nester,11.5,12.7,12.1,14.4,13.2,13.8,1.7,45,42,43.5,53,57,55,11.5,2,Yes,41,25.6,400,n,n,Run/Glide,nest box,530,31,0,0,0,0,"T60 Hemoglobin 14.4, 13.2
+T60 Hematocrit 53, 57
+T0: ISTAT Ph 7.539, PCO2 13,6, HCO3 11,6, BE -11, TCO2 12, NA <100, Glu <20. 
+Healthy adult male with eggs",0,Y,9,4,13,135,124,195,72,44,3,5,61,24,4,3,60,408,0.303921569,0.477941176,0.176470588,0.107843137,0.007352941,0.012254902,0.149509804,0.058823529,0.009803922,0.635897436,0.068965517,0.653333333,1.666666667,0.393442623,4259.3445,3%
+762_Bridge,2020,9/22/2020,Oviposition,016829,13.42,nester,8.9,9.3,9.1,10.8,11.7,11.25,2.15,38,40,39,43,46,44.5,5.5,,Yes,46.5,30.1,630,n,y,Run/Glide,nest box,-3,24,3,3,0,3,"T60 hemoglobin 10.8, 11.7
+T60 hematocrit 43,46
+
+T0 EC8+ pH 7.447, pCo2 19.6, HCO3 13.5, BE -11, TCO2 14, Na <100, Glu <20
+
+Healthy male with eggs, small clutch is pretty torn up (see nest sheet). Male has a gorgeous black blotches, several recent battle wounds",3,Y,25,31,56,127,197,159,97,87,2,11,63,18,1,6,60,438,0.449771689,0.363013699,0.221461187,0.198630137,0.00456621,0.025114155,0.143835616,0.04109589,0.002283105,1.238993711,0.070652174,0.98989899,5.5,0.285714286,4139.433,3%
+Thomas Bridge,2020,9/22/2020,Oviposition,566333,13.43888889,nester,9.5,10.9,10.2,11.3,11.9,11.6,1.4,40,40,40,47,48,47.5,7.5,2,Yes,41.8,26.5,430,n,y,Run/Glide,nest box,430,60.3,1,1,0,1,"T60 hemoglobin 11.3, 11.9
+T60 hematocrit 47, 48
+
+Healthy male with eggs, fresh battle wound, otherwise excellent condition.
+Box was replaced by camerabox",0,Y,4,5,9,44,99,138,57,21,9,12,14,14,3,0,60,268,0.369402985,0.514925373,0.212686567,0.078358209,0.03358209,0.044776119,0.052238806,0.052238806,0.01119403,0.717391304,0.269230769,0.5,1.333333333,1,4166.08,1%
+762_Bridge,2020,9/22/2020,Oviposition,659062,13.42,nester,7.8,7.3,7.55,12.7,12.8,12.75,5.2,29,29,29,54,53,53.5,24.5,2,Yes,43.6,27.2,540,n,n,Run/Glide,nest box,-21,29.4,0,0,0,0,"T60 hemoglobin 12.7, 12.8
+T60 hematocrit 54, 53
+
+Healthy male with eggs",2,Y,7,6,13,11,98,261,52,23,3,20,67,8,1,2,60,435,0.225287356,0.6,0.11954023,0.052873563,0.006896552,0.045977011,0.154022989,0.018390805,0.002298851,0.375478927,0.306666667,0.781818182,6.666666667,0.119402985,3872.963,0%
+Buller Hatchery,2020,10/5/2020,Midincubation,557148,13.04722222,nester,6.1,6.7,6.4,8.6,8.9,8.75,2.35,25,28,26.5,38,35,36.5,10,2,Yes,48.8,32.9,,y,n,Run/Glide,nest box,307,29,0,0,0,0,"T60 hemoglobin 8.6,8.9
+T60 hematocrit 35, 38
+ Mass was  INCORRECT and is deleted on June 14, 2021 (JG)
+Unhealthy looking male with rotten clutch, he is thin.
+Has strange cancerous looking mass.
+Barely had any buffycoat visible in the lab
+
+Accucheck blood: Glu T0 ""low"", T60 11 mg/dl",0,Y,25,6,31,41,95,107,18,57,0,20,11,9,2,2,60,224,0.424107143,0.477678571,0.080357143,0.254464286,0,0.089285714,0.049107143,0.040178571,0.008928571,0.887850467,0.266666667,4.277777778,#DIV/0!,0.818181818,3806.3455,1%
+Buller Hatchery,2020,10/5/2020,Midincubation,565092,13.04722222,nester,9.2,9.2,9.2,11.8,12.3,12.05,2.85,34,35,34.5,44,51,47.5,13,1,Yes,38.8,25,340,n,n,Run/Glide,nestbox,325,28,0,0,0,0,"T60 hemoblobin 11.8, 12.3
+T60 hematocrit 44, 51
+Accucheck T0 ""low""
+Young adult male with nest, looks great, mint condition",7,Y,13,20,33,85,60,194,31,21,5,3,36,13,0,0,61,303,0.198019802,0.640264026,0.102310231,0.069306931,0.01650165,0.00990099,0.118811881,0.04290429,0,0.309278351,0.153846154,0.666666667,0.6,0.361111111,4019.5215,2%
+Buller Hatchery,2020,10/5/2020,Midincubation,914031,13.04722222,nester,10.8,10,10.4,11.1,11.9,11.5,1.1,42,42,42,52,53,52.5,10.5,2,Yes,47.2,30.2,760,y,n,Run/Glide,nest box,341,44.5,0,0,0,0,"T60 hemoglobin 11.1,11.9
+T60 hematocrit 47, 48
+
+Accucheck T0 Glu 11 mg/dl, T60 Glu 11 mg/dl
+
+Healthy adult male . Likely cannibal, stomach very full, could not confirm.
+Double checked all his morphometrics. His SVL and Mass on 6 sept do not look accurate. His SVL looks way too short in Sept in relation to his full length. His mass in september is also questianable.
+Pooped crayfish poop in bin.
+
+Exchanged boxes, installed camera box!",0,Y,15,17,32,91,90,156,53,25,6,6,23,5,0,0,60,274,0.328467153,0.569343066,0.193430657,0.091240876,0.02189781,0.02189781,0.083941606,0.018248175,0,0.576923077,0.153846154,0.525423729,1,0.217391304,4219.374,2%
+Thomas Bridge,2020,10/7/2020,Midincubation,868832,13.68055556,nester,11.8,11.9,11.85,12.3,10.7,11.5,0.35,44,46,45,45,48,46.5,1.5,1,Yes,48.5,30.5,720,n,y,Run/Glide,nest box,-268,38.5,0,0,0,0,"T60 hemoglobin 12.3, 10.7
+T60 hematocrit 45, 48
+
+Accucheck Glu T0 11, T60 17
+
+healthy with eggs, pooped in bin. Fat tail",0,N,0,0,0,104,61,120,28,27,0,6,4,9,0,0,61,194,0.31443299,0.618556701,0.144329897,0.139175258,0,0.030927835,0.020618557,0.046391753,0,0.508333333,0.109090909,1.178571429,#DIV/0!,2.25,4299.315,2%
+762_Bridge,2020,10/9/2020,Midincubation,563915,15.09,nester,8.4,9.1,8.75,10.4,10.9,10.65,1.9,42,44,43,48,46,47,4,1,Yes,42.7,27.4,510,n,n,Run/Glide,CAMERABOX,433,68.4,0,0,0,0,"T60 hemoglobin 10.4,10.9
+T60 hematocrit 48,46
+
+Accucheck glu T0 ""low"", T60 15
+
+Healthy male with eggs, produced thick slime",0,Y,43,11,54,412,70,164,40,24,3,3,15,15,2,0,61,266,0.263157895,0.616541353,0.15037594,0.090225564,0.011278195,0.011278195,0.056390977,0.056390977,0.007518797,0.426829268,0.09375,0.627906977,1,1,4246.021,10%
+762_Bridge,2020,10/9/2020,Midincubation,564980,15.09,nester,10.6,10.2,10.4,11.2,11.3,11.25,0.85,46,42,44,47,46,46.5,2.5,1,Yes,41.4,26,420,n,n,Run/Glide,nest box,528,36.5,2,2,0,2,"T60 hemoglobin 11.2,11.3
+T60 Hematocrit 47,46
+
+Accucheck T0 glu ""low"", T60 ""low""
+
+Healthy male with eggs, looks great!",3,Y,76,109,185,126,131,247,59,52,6,14,41,10,1,6,61,430,0.304651163,0.574418605,0.137209302,0.120930233,0.013953488,0.03255814,0.095348837,0.023255814,0.002325581,0.530364372,0.18018018,1.015384615,2.333333333,0.243902439,4272.668,3%
+762_Bridge,2020,10/9/2020,Midincubation,674701,15.09,nester,8.9,9.4,9.15,10.7,10.6,10.65,1.5,41,42,41.5,47,47,47,5.5,1,Yes,43.7,28.3,510,n,n,Run/Glide,nestbox,402,32,1,1,0,1,"T60 hemoglobin 10.7,10.6
+T60 hematocrit 47,47
+
+Accucheck glu T0 ""low"", T60 11
+
+Healthy male with clutch, pooped in bin",16,Y,24,26,50,110,100,218,63,25,2,10,34,8,2,0,61,362,0.276243094,0.602209945,0.174033149,0.069060773,0.005524862,0.027624309,0.093922652,0.022099448,0.005524862,0.458715596,0.136363636,0.538461538,5,0.235294118,4206.0505,3%
+762_Bridge,2020,10/9/2020,Midincubation,570A13,15.09,nester,5.9,6.5,6.2,9.5,9,9.25,3.05,28,29,28.5,42,43,42.5,14,1,Yes,48.5,30.5,650,n,y,Run/Glide,nestbox,-193,39,2,2,0,2,"T60 hemoglbin 9.5,9
+T60 hematocrit 42,43
+
+Accucheck T0 glu ""low"", T60 11
+
+Healthy adult with eggs. Looks good, but wound still open",1,Y,19,20,39,262,160,240,72,42,26,20,69,13,2,3,61,484,0.330578512,0.495867769,0.148760331,0.08677686,0.053719008,0.041322314,0.142561983,0.026859504,0.004132231,0.666666667,0.403508772,0.632653061,0.769230769,0.188405797,3859.6395,7%
+Buller Hatchery,2020,10/13/2020,Midincubation,080277,14.95277778,nester,10.2,10.9,10.55,10.7,11.1,10.9,0.35,43,43,43,46,48,47,4,1,Yes,44.2,29.1,620,y,y,Run/Glide,nest box,328,40,1,1,0,1,"T60 hemaglobin 10.7,11.1
+T60 hematocrit 46,48
+
+Accucheck Glu T0 ""low"", T60 15
+
+Adult with eggs. Very full gut, most certainly full of eggs. Cant even move normally in water column. Highly probable cannibal. Increased neary 200g.. Looks rideculous because so full.
+Pooped in bin",0,Y,44,86,130,221,119,277,72,38,2,7,35,7,1,1,61,439,0.271070615,0.630979499,0.164009112,0.086560364,0.004555809,0.01594533,0.079726651,0.01594533,0.002277904,0.429602888,0.081818182,0.608108108,3.5,0.2,4246.021,5%
+Buller Hatchery,2020,10/13/2020,Midincubation,092271,14.95277778,nester,7.1,8.6,7.85,9.2,9.7,9.45,1.6,33,35,34,37,38,37.5,3.5,1,Yes,48,31,660,n,y,Run/Glide,nestbox,310,46,1,1,0,1,"T60 hemoglobin 9.2,9.7
+T60 hematocrit 37,38
+
+male with clutch, pretty full stomach but could not palpate any eggs. Barfed up jelly coats (no clear eggs), likely cannibal",2,Y,83,51,134,107,147,277,46,72,6,23,28,4,1,8,61,457,0.32166302,0.606126915,0.100656455,0.157549234,0.013129103,0.050328228,0.061269147,0.008752735,0.002188184,0.530685921,0.245762712,1.826923077,3.833333333,0.142857143,4006.198,3%
+Buller Hatchery,2020,10/13/2020,Midincubation,563905,14.95277778,nester,6.8,7.2,7,11,11.4,11.2,4.2,29,30,29.5,47,49,48,18.5,1,Yes,45.9,27.6,445,y,n,Run/Glide,nestbox,319,32.5,0,0,0,0,"T60 hemoglobin 11,11.4
+T60 hematocrit 47,49
+
+Accucheck Glu T0 ""low"", T60 ""low""
+
+Male with nest, looks good only small clutch left. Pooped in bin",0,Y,31,22,53,87,66,289,21,23,11,11,60,8,1,1,61,424,0.155660377,0.681603774,0.049528302,0.054245283,0.025943396,0.025943396,0.141509434,0.018867925,0.002358491,0.228373702,0.5,1.0625,1,0.133333333,3886.2865,2%
+Thomas Bridge,2020,10/13/2020,Midincubation,567111,15.34444444,nester,9,9.2,9.1,12.5,13.3,12.9,3.8,34,37,35.5,42,42,42,6.5,1,Yes,42,25.9,445,n,n,Run/Glide,nestbox,-289,36,0,0,0,0,"Male with failed nst, no eggs. Looks good ormail
+Triple check SVL (25.9) and is correct, sept SVL likely incorrect
+Accucheck GLU T0 ""low"", T60 ""low""
+T60 hemoglobin 12.5,13.3
+T60 hematocrit 47,47",5,Y,31,33,64,121,163,284,102,51,4,6,44,7,3,0,61,501,0.325349301,0.566866267,0.203592814,0.101796407,0.007984032,0.011976048,0.087824351,0.013972056,0.005988024,0.573943662,0.065359477,0.537735849,1.5,0.159090909,4046.1685,3%
+Thomas Bridge,2020,10/14/2020,Midincubation,557083,13.425,nester,11.7,12,11.85,11.6,12.4,12,0.15,48,48,48,51,51,51,3,1,Yes,43.8,27.1,500,n,n,Run/Glide,CAMERABOX,-221,54.5,0,0,0,0,"Very Healthy male. Mint condition, pooped in bin. Hemoglobin T60 11.6, 12.4. Hematocrit T60 51, 51. Accucheck T0 ""low"", T60 ""low""",0,Y,12,7,19,207,64,152,37,24,1,2,34,8,0,1,61,258,0.248062016,0.589147287,0.143410853,0.093023256,0.003875969,0.007751938,0.131782946,0.031007752,0,0.421052632,0.049180328,0.684210526,2,0.235294118,4379.256,5%
+Thomas Bridge,2020,10/14/2020,Midincubation,557769,13.425,nester,6.6,7.2,6.9,11.4,12.5,11.95,5.05,31,31,31,45,50,47.5,16.5,1,Yes,45,29.8,590,n,n,Run/Glide,nestbox,-332,38,0,0,0,0,"T60 hemoglobin 11.4, 12.5
+T60 hematocrit 45,50
+
+Accucheck glu T0 ""Low', T60 ""low""
+
+Healthy male with eggs, looks terrific",0,Y,22,26,48,19,67,97,37,21,6,3,9,3,1,0,61,177,0.378531073,0.548022599,0.209039548,0.118644068,0.033898305,0.016949153,0.050847458,0.016949153,0.005649718,0.690721649,0.155172414,0.558139535,0.5,0.333333333,3926.257,0%
+Thomas Bridge,2020,10/14/2020,Midincubation,563788,13.425,nester,5.9,6.9,6.4,9.9,10.8,10.35,3.95,21,23,22,42,43,42.5,20.5,1,Yes,44.9,28.8,540,n,n,Run/Glide,CAMERABOX,-337,53.5,0,0,0,0,"Male with eggs, looks healthy
+
+T60 hemoglobin 9.9,10.8
+T60 hematocrit 42,43
+
+*Blood pale color
+
+Accucheck glu T0 ""low"", T60 ""low""",0,Y,35,58,93,129,166,260,65,75,2,24,71,9,0,3,61,506,0.328063241,0.513833992,0.128458498,0.148221344,0.003952569,0.04743083,0.140316206,0.017786561,0,0.638461538,0.185714286,1.47761194,12,0.126760563,3686.434,3%
+Thomas Bridge,2020,10/14/2020,Midincubation,565780,13.425,nester,9.5,9.6,9.55,10.3,10.2,10.25,0.7,32,38,35,42,42,42,7,1,Yes,42.2,26.7,460,n,n,Run/Glide,CAMERABOX,-96,45.5,0,0,0,0,"T60 hemoglobin 10.3, 10.2
+T60 hematocrit 42,42
+Accucheck Glu T0 10, T60 12
+Healthy male with eggs in camerbox. Pooped in bin. Looks terrific",0,N,0,0,0,102,118,226,68,35,1,14,21,14,2,0,61,381,0.309711286,0.593175853,0.17847769,0.091863517,0.002624672,0.036745407,0.05511811,0.036745407,0.005249344,0.522123894,0.145631068,0.710144928,14,0.666666667,4032.845,3%
+RiversideCC,2020,10/15/2020,Midincubation,083649,13.49444444,nester,10.2,11.1,10.65,11.9,11.6,11.75,1.1,42,41,41.5,42,46,44,2.5,1,Yes,44.4,28,535,n,n,Run/Glide,CAMERA BOX,-151,43.5,0,0,0,0,"AccuCheck Glu T0 ""Low"", T60 ""Low""
+
+T60 hemoglobin 11.9,11.6
+T60 hematocrit 42,46
+
+Male with few eggs remaining in Camera box. Producing lots of slime, stomach full of crayfish",5,Y,42,39,81,72,192,231,110,63,4,15,53,7,3,5,61,486,0.395061728,0.475308642,0.226337449,0.12962963,0.008230453,0.030864198,0.109053498,0.014403292,0.00617284,0.831168831,0.10982659,0.684210526,3.75,0.132075472,4206.0505,2%
+RiversideCC,2020,10/15/2020,Midincubation,194035,13.49444444,nester,9,9.6,9.3,11.1,11.5,11.3,2,39,41,40,45,46,45.5,5.5,1,Yes,43.6,27.1,570,n,n,Run/Glide,nest box,406,37,1,1,0,1,"T60 hemoglobin 11.5,11.1
+T60 hematocrit 45,46
+
+Accucheck Glu T0 ""low"", T60 11
+Male, nest failed. No eggs, very healthy, very full- contains crayfish",2,Y,37,30,67,76,125,113,92,23,5,5,28,2,0,4,61,268,0.46641791,0.421641791,0.343283582,0.085820896,0.018656716,0.018656716,0.104477612,0.007462687,0,1.10619469,0.086956522,0.288659794,1,0.071428571,4166.08,2%
+RiversideCC,2020,10/15/2020,Midincubation,567248,13.49444444,nester,8.2,8.9,8.55,8.2,8.9,8.55,0,36,39,37.5,39,41,40,2.5,1,Yes,37.8,23.9,320,n,y,Run/Glide,CAMERABOX,431,78,1,1,0,1,"T60 hemoglobin 8.2,8.9 (this is correct! Note to self WAH)
+T60 hematocrit 39,41
+
+Accucheck Glu T0 ""low"", T60 17
+
+Healthy male with eggs, looks very healthy
+
+*Installed camerabox*",16,Y,76,48,124,803,194,266,102,60,1,31,58,30,1,3,61,549,0.353369763,0.484517304,0.18579235,0.109289617,0.001821494,0.056466302,0.10564663,0.054644809,0.001821494,0.729323308,0.197530864,0.883495146,31,0.517241379,4099.4625,20%
+RiversideCC,2020,10/15/2020,Midincubation,567422,13.49444444,nester,10.3,10.6,10.45,12.6,12.9,12.75,2.3,46,46,46,54,53,53.5,7.5,1,Yes,41,25.2,410,n,n,Run/Glide,nest box,530,39,0,0,0,0,"T60 Hemoglobin 12.6,12.9
+T60 hematocrit 53,54
+accucheck T0 ""low"", T60 11
+Male with nest, looks great, very few marks",0,Y,33,20,53,121,89,223,58,27,1,3,60,13,1,0,61,386,0.230569948,0.577720207,0.150259067,0.069948187,0.002590674,0.007772021,0.155440415,0.033678756,0.002590674,0.399103139,0.047058824,0.508474576,3,0.216666667,4325.962,3%
+762_Bridge,2020,10/15/2020,Midincubation,981561,13.40,nester,7.7,8.1,7.9,8.5,9.1,8.8,0.9,33,34,33.5,48,48,48,14.5,1,Yes,42.2,27.4,540,y,n,Run/Glide,nest box,424,35,2,2,0,2,"T60 hemoglobin 8.5, 9.1
+T60 hematocrit 48,48
+Accucheck Glu T0,""Low"", T60 12
+
+Adult male with nest, very full belly, but not clear evidence of cannibalism (but his nest is torn up)",0,Y,89,87,176,278,113,189,64,40,4,5,23,4,1,4,61,330,0.342424242,0.572727273,0.193939394,0.121212121,0.012121212,0.015151515,0.06969697,0.012121212,0.003030303,0.597883598,0.086538462,0.661764706,1.25,0.173913043,3992.8745,7%
+762_Bridge,2020,10/16/2020,Midincubation,016829,14.02,nester,5.5,5,5.25,9.1,9.5,9.3,4.05,21,22,21.5,43,44,43.5,22,1,Yes,46.4,30.1,640,y,y,Run/Glide,nest box,-3,32,1,1,1,1,"T60 hemoglobin 9.1, 9.5
+T60 hematocrit 43,44
+
+Accucheck Glu T0 ""low"", T60 17
+
+Male with nest, only 1 egg left. Really nice color blotches",4,Y,78,73,151,261,135,204,56,60,1,18,71,9,5,3,61,424,0.318396226,0.481132075,0.132075472,0.141509434,0.002358491,0.04245283,0.16745283,0.021226415,0.011792453,0.661764706,0.163793103,1.368421053,18,0.126760563,3673.1105,7%
+Thomas Bridge,2020,10/16/2020,Midincubation,567097,13.775,nester,8.7,9.1,8.9,10.9,10.7,10.8,1.9,37,38,37.5,44,48,46,8.5,1,Yes,45.5,28.2,605,n,n,Run/Glide,nest box,-334,33,0,0,0,0,"Male with nest, confirmed cannibal. Barfed up eggs upon capture. Full of eggs
+
+T60 hemoglobin 10.9,10.7
+T60 hematocrit 44,48
+
+Accucheck Glu T0 ""low"", T60 13",1,Y,0,1,1,209,110,98,61,41,3,5,19,2,2,0,61,231,0.476190476,0.424242424,0.264069264,0.177489177,0.012987013,0.021645022,0.082251082,0.008658009,0.008658009,1.12244898,0.078431373,0.71875,1.666666667,0.105263158,4099.4625,5%
+762_Bridge,2020,10/16/2020,Midincubation,659062,14.02,nester,9.6,10,9.8,10.1,11.1,10.6,0.8,41,42,41.5,49,48,48.5,7,1,Yes,43.4,29.8,550,n,n,Run/Glide,nest box,-21,35.5,0,0,0,0,"T60 hemoglobin 10.1,11.1
+T60 hematocrit 49,48
+
+Accucheck glu T0/T60 ""low""
+
+Healthy adult male with gorgeous clutch of eggs, pooped in bin",0,Y,15,15,30,29,138,201,63,64,0,11,53,5,1,0,61,398,0.346733668,0.505025126,0.158291457,0.16080402,0,0.027638191,0.133165829,0.012562814,0.002512563,0.686567164,0.086614173,1.19047619,#DIV/0!,0.094339623,4206.0505,1%
+Buller Hatchery,2020,11/5/2020,Hatching,083242,10.79166667,nester,8.9,9.2,9.05,10.9,11.3,11.1,2.05,43,45,44,48,50,49,5,1,Yes,45.5,29.2,550,n,n,Run/Glide,CAMERABOX,8,71,0,0,0,0,"T60 hemoglobin 10.9,11.3
+T60 hematocrit 48,50
+
+Male with nest in camerabox, looks terrific, clutch looks great",0,Y,59,51,110,96,121,180,62,46,13,0,22,2,4,5,62,329,0.367781155,0.547112462,0.188449848,0.139817629,0.039513678,0,0.066869301,0.006079027,0.012158055,0.672222222,0.12037037,0.613333333,0,0.090909091,4272.668,2%
+Buller Hatchery,2020,11/5/2020,Hatching,557148,10.79166667,nester,2.7,2.9,2.8,7.2,7.6,7.4,4.6,14,14,14,35,28,31.5,17.5,1,Yes,48.1,32.4,680,y,n,Run/Glide,nest box,307,36,0,0,0,0,"T60 hemoglobin 7.2, 7.6
+T60 hematocrit 35,28
+
+Blood very pale, feels thin
+male in box, looks like nest failed",0,Y,10,7,17,15,46,64,12,31,1,2,6,4,0,0,62,120,0.383333333,0.533333333,0.1,0.258333333,0.008333333,0.016666667,0.05,0.033333333,0,0.71875,0.069767442,2.538461538,2,0.666666667,3473.258,0%
+Buller Hatchery,2020,11/5/2020,Hatching,565092,10.79166667,nester,5,5.7,5.35,8,8.2,8.1,2.75,27,28,27.5,40,41,40.5,13,1,Yes,39.4,24.5,360,n,n,Run/Glide,nestbox,325,31,0,0,0,0,"T60 hemoglobin 8, 8.2
+T60 hematocrit 40,41
+
+Male with nest, bit Jordy in box, looks terrific, great looking clutch. No marks",0,Y,4,7,11,122,79,226,48,20,3,8,53,0,0,0,62,358,0.220670391,0.631284916,0.134078212,0.055865922,0.008379888,0.022346369,0.148044693,0,0,0.349557522,0.161764706,0.549019608,2.666666667,0,3832.9925,3%
+Buller Hatchery,2020,11/5/2020,Hatching,914031,10.79166667,nester,7.1,8.6,7.85,10,10,10,2.15,31,33,32,45,44,44.5,12.5,1,Yes,47,30,660,y,n,Run/Glide,nest box,341,53,0,0,0,0,"T60 hemoglobin 10,10
+T60 hematocrit 44,45
+
+Healthy male with hatchlings, super full gut, fat tail",0,Y,8,10,18,75,95,117,55,23,6,11,25,6,1,0,62,244,0.389344262,0.479508197,0.225409836,0.094262295,0.024590164,0.045081967,0.102459016,0.024590164,0.004098361,0.811965812,0.217948718,0.557377049,1.833333333,0.24,3952.904,2%
+Buller Hatchery,2020,11/5/2020,Hatching,981561,10.79166667,nester,5.5,7.3,6.4,10,10.7,10.35,3.95,32,34,33,41,44,42.5,9.5,1,Yes,42.8,27.6,540,y,n,Run/Glide,nest box,424,38.5,0,0,0,0,"T60 hemoglobin 10, 10.7
+T0 hemoglobin 7.1 (third time)
+T60 hematocrit 41,44
+
+Male with nest, very full belly, big crayfish",6,Y,102,89,191,365,59,139,30,24,1,4,15,14,0,9,62,227,0.259911894,0.612334802,0.13215859,0.105726872,0.004405286,0.017621145,0.066079295,0.061674009,0,0.424460432,0.092592593,0.903225806,4,0.933333333,3979.551,9%
+762_Bridge,2020,11/6/2020,Hatching,563915,11.21,nester,7.2,7.3,7.25,9,8.3,8.65,1.4,29,29,29,44,45,44.5,15.5,1,Yes,42.6,28,480,n,n,Run/Glide,CAMERABOX,-433,74,0,0,0,0,"T60 hemoglobin 9, 8.3
+T60 hematocrit 44, 45
+
+Male in Camerabox, extremely slimy, pooped in bin, feels a little skinny",1,Y,17,16,33,373,126,168,17,102,0,7,19,15,0,0,62,328,0.384146341,0.512195122,0.051829268,0.31097561,0,0.021341463,0.057926829,0.045731707,0,0.75,0.058823529,6.411764706,#DIV/0!,0.789473684,3872.963,10%
+762_Bridge,2020,11/6/2020,Hatching,564980,11.21,nester,6.4,8.7,7.55,9.6,9.8,9.7,2.15,34,35,34.5,40,41,40.5,6,1,Yes,41,26,530,n,n,Run/Glide,nestbox,528,47,1,1,0,1,"T60 hemoglobin 9.6, 9.8
+T60 hematocrit 40,41
+
+Adult with nest , looks very healthy-super Fat
+Gently palpated-> didn't force it but feels like full of eggs.
+""likely"" cannibal, but not confirmed",9,Y,168,155,323,269,158,277,63,80,1,14,32,26,2,2,62,495,0.319191919,0.55959596,0.127272727,0.161616162,0.002020202,0.028282828,0.064646465,0.052525253,0.004040404,0.570397112,0.104895105,1.46875,14,0.8125,4019.5215,7%
+762_Bridge,2020,11/6/2020,Hatching,674701,11.21,nester,6.4,6.9,6.65,8.3,7.7,8,1.35,30,32,31,47,48,47.5,16.5,1,Yes,42.9,27.5,650,n,n,Run/Glide,nest box,402,40,2,2,0,2,"T60 hemoglobin 8.3,7.7
+T60 hematocrit 47,48
+
+Male with clutch, exceptionally full. Barfed eggs, confirmed cannibal",16,Y,11,16,27,577,193,244,75,98,3,17,35,20,3,1,62,495,0.38989899,0.492929293,0.151515152,0.197979798,0.006060606,0.034343434,0.070707071,0.04040404,0.006060606,0.790983607,0.115606936,1.474358974,5.666666667,0.571428571,3926.257,15%
+762_Bridge,2020,11/6/2020,Hatching,570A13,11.21,nester,9,9.4,9.2,9.3,9.6,9.45,0.25,31,36,33.5,37,39,38,4.5,1,Yes,48.6,31,740,n,n,Run/Glide,nest box,-193,48,1,1,0,1,"T60 hemoglobin 9.3,9.6
+T60 hematocrit 37,39
+
+Healthy adult male with nest, stomach very full, crayhisf. Pooped in bin",5,Y,27,28,55,293,157,218,60,78,2,17,20,16,0,2,62,411,0.381995134,0.530413625,0.145985401,0.189781022,0.00486618,0.04136253,0.0486618,0.03892944,0,0.720183486,0.137681159,1.532258065,8.5,0.8,3992.8745,7%
+Thomas Bridge,2020,11/7/2020,Hatching,557083,11.61944444,nester,7.2,7.7,7.45,9,9.8,9.4,1.95,32,34,33,44,48,46,13,1,Yes,44,27.8,480,n,n,Run/Glide,CAMERABOX,-221,55,0,0,0,0,"Male with eggs in Camera box, looks great
+
+T60 hemoglobin 9,9.8
+T60 hemaotcrit 44,48
+
+*T60 bleed was rough, Bill stuck him 12 x, rewrapped twice",0,Y,2,3,5,143,96,163,46,21,0,29,39,5,0,0,62,303,0.316831683,0.537953795,0.151815182,0.069306931,0,0.095709571,0.128712871,0.01650165,0,0.588957055,0.432835821,1.086956522,#DIV/0!,0.128205128,3979.551,4%
+Thomas Bridge,2020,11/7/2020,Hatching,557769,11.61944444,nester,6.3,6.7,6.5,10.7,10.1,10.4,3.9,29,31,30,47,48,47.5,17.5,1,Yes,45.5,30.1,620,n,n,Run/Glide,nestbox,-332,33.5,1,1,0,1,"T60 hemoglobin 10.7,10.1
+T60 hematocrit 47,48
+
+Male with great looking clutch, looks excelent. Pooped in bin twice. Crayfish in poop
+Stomach full of crayfish",1,Y,18,22,40,578,152,305,93,33,3,23,51,16,0,0,62,524,0.290076336,0.582061069,0.177480916,0.062977099,0.005725191,0.04389313,0.097328244,0.030534351,0,0.498360656,0.206349206,0.583333333,7.666666667,0.31372549,3899.61,15%
+Thomas Bridge,2020,11/7/2020,Hatching,563788,11.61944444,nester,7,5.5,6.25,8.4,9.5,8.95,2.7,29,27,28,41,42,41.5,13.5,1,Yes,45.2,28.8,540,y,n,Run/Glide,CAMERABOX,-337,51,0,0,0,0,"T60 hemoglobin 8.4, 9.5
+T60 Hematocrit 41, 42
+
+Adult male in camera box, look very healthy. Could not find any eggs or larvea. Lots of leaves and silt. Check in spring to be sure.
+
+T60 plasma quite yellow, but T0 not yellow",0,Y,11,21,32,291,188,339,46,90,2,50,68,13,0,4,62,608,0.309210526,0.557565789,0.075657895,0.148026316,0.003289474,0.082236842,0.111842105,0.021381579,0,0.554572271,0.382352941,2.916666667,25,0.191176471,3846.316,8%
+Thomas Bridge,2020,11/7/2020,Hatching,565780,11.61944444,nester,5.8,6,5.9,10.8,11.6,11.2,5.3,23,24,23.5,46,47,46.5,23,1,Yes,42.5,26.7,390,n,n,Run/Glide,CAMERABOX,-96,47,0,0,0,0,"T60 hemoglobin 10.8, 11.6
+T60 hematocrit 46,47
+
+Male with nest, feels a little thing but otherwise looks good",4,N,0,0,0,25,102,334,62,27,3,10,18,16,0,0,62,470,0.217021277,0.710638298,0.131914894,0.057446809,0.006382979,0.021276596,0.038297872,0.034042553,0,0.305389222,0.146067416,0.569230769,3.333333333,0.888888889,3726.4045,1%
+Thomas Bridge,2020,11/7/2020,Hatching,565923,11.61944444,nester,8,9.2,8.6,9.6,8.6,9.1,0.5,39,37,38,53,54,53.5,15.5,1,Yes,41.4,27.2,435,y,n,Run/Glide,nest box,338,35,0,0,0,0,"T60 hemoglobin 9.6, 8.8
+T60 hematocrit 53,54
+
+male with nest, little guy pooped in bin",2,Y,2,4,6,114,65,234,28,34,0,3,6,5,0,0,62,310,0.209677419,0.75483871,0.090322581,0.109677419,0,0.009677419,0.019354839,0.016129032,0,0.277777778,0.048387097,1.321428571,#DIV/0!,0.833333333,4112.786,3%
+Thomas Bridge,2020,11/7/2020,Hatching,868382,11.61944444,nester,8.9,8.3,8.6,9.3,9.9,9.6,1,33,33,33,43,44,43.5,10.5,1,Yes,49.6,30.4,740,n,n,Run/Glide,nest box,-268,44.5,0,0,0,0,"Healthy adult male with large clutch, very healthy, pooped n bin.
+Huge fat storage in tail
+
+T60 hemoglobin 9.9,9.3
+T60 hematocrit 43,44",4,N,0,0,0,151,57,139,35,15,6,1,4,1,0,0,62,201,0.28358209,0.691542289,0.174129353,0.074626866,0.029850746,0.004975124,0.019900498,0.004975124,0,0.410071942,0.14,0.390243902,0.166666667,0.25,3979.551,4%
+Buller Hatchery,2020,11/8/2020,Hatching,080277,12.475,nester,8.4,9.1,8.75,8.7,9.1,8.9,0.15,33,33,33,38,41,39.5,6.5,1,Yes,44.3,28.8,510,y,n,Run/Glide,nestbox,328,35.9,0,0,0,0,"Adult males with nest. Nice big scar on noth sides of head
+Hemoglobin T60 8.7,9.5. Hematocrit T60 38,41
+*FAIL*",4,Y,75,58,133,282,141,253,48,71,0,22,31,17,0,0,62,442,0.319004525,0.57239819,0.108597285,0.160633484,0,0.049773756,0.070135747,0.038461538,0,0.557312253,0.18487395,1.9375,#DIV/0!,0.548387097,3979.551,7%
+Buller Hatchery,2020,11/8/2020,Hatching,563905,12.475,nester,8.9,9.5,9.2,9.9,10.3,10.1,0.9,34,37,35.5,45,46,45.5,10,2,Yes,44.7,27.3,475,y,n,Run/Glide,nestbox,319,30.5,0,0,0,0,"T60 hemoglobin 9.9,10.3
+T60 hematocrit 45,46
+
+male with nest. Looks good, during T0 bleed dischanged thick white mascial from cloaca (looked like vric acid)-pretty nasty
+
+Pooped in bin-crayfish in poop",2,Y,24,23,47,145,40,157,7,29,0,4,14,5,0,1,62,216,0.185185185,0.726851852,0.032407407,0.134259259,0,0.018518519,0.064814815,0.023148148,0,0.25477707,0.111111111,4.714285714,#DIV/0!,0.357142857,4046.1685,4%
+Thomas Bridge,2020,11/8/2020,Hatching,567097,12.70555556,nester,5.5,5.6,5.55,9,8.7,8.85,3.3,21,22,21.5,43,44,43.5,22,1,Yes,46.2,27.4,520,n,n,Run/Glide,nest box,-334,33.3,0,0,0,0,"Male with Failed nest
+
+T60 hemoglobin 9, 8.7
+T60 hematocrit 43,44",0,N,0,0,0,226,65,213,13,39,0,13,27,4,1,0,62,310,0.209677419,0.687096774,0.041935484,0.125806452,0,0.041935484,0.087096774,0.012903226,0.003225806,0.305164319,0.25,4,#DIV/0!,0.148148148,3673.1105,6%
+Buller Hatchery,2020,11/8/2020,Hatching,967724,12.475,nester,7.9,7.4,7.65,,,,,27,28,27.5,,,,,1,No,46.6,30.9,620,n,n,Run/Glide,nestbox,41,41,1,0,0,1,Not the male that was origanally in the box with failed nest,6,Y,46,33,79,47,60,167,23,33,0,4,27,10,0,3,62,264,0.227272727,0.632575758,0.087121212,0.125,0,0.015151515,0.102272727,0.037878788,0,0.359281437,0.071428571,1.608695652,#DIV/0!,0.37037037,3832.9925,1%
+RiversideCC,2020,11/10/2020,Hatching,567248,14.73333333,nester,5.7,6,5.8,7.8,8.4,8.1,2.3,21,22,21.5,48,49,48.5,27,1,Yes,37.8,23.7,335,n,n,Run/Glide,CAMERABOX,431,74,2,2,0,2,"T60 hemoglobin 7.8,8.4
+T60 hematocrit 48,49
+
+Healthy young male with eggs in camera box. Pooped in bin
+
+Took about 10 minutes to get the board set up and male was watching in tunnel",0,Y,43,22,65,949,126,243,50,40,6,30,32,18,5,0,63,424,0.297169811,0.573113208,0.117924528,0.094339623,0.014150943,0.070754717,0.075471698,0.04245283,0.011792453,0.518518519,0.4,1.25,5,0.5625,3673.1105,26%
+762_Bridge,2020,11/21/2020,Hatching,016829,9.75,nester,5.2,5.4,5.3,8.6,8.5,8.55,3.25,20,23,21.5,39,39,39,17.5,1,Yes,47.4,30.3,650,y,n,Run/Glide,nest box,-3,37,0,0,0,0,"T60 hemoglobin 8.5, 8.6
+T60 hematocrit 39,39
+
+Healthy male with failed nest",0,Y,65,54,119,108,177,267,12,91,1,73,52,7,0,5,63,503,0.351888668,0.530815109,0.023856859,0.180914513,0.001988072,0.145129225,0.103379722,0.013916501,0,0.662921348,0.718446602,12.61538462,73,0.134615385,3673.1105,3%
+RiversideCC,2020,11/21/2020,Hatching,567422,10.02222222,nester,7.2,7.9,7.55,9.2,10.1,9.65,2.1,29,29,29,49,51,50,21,1,Yes,40.6,26,385,n,n,Run/Glide,nest box,530,47,1,1,0,1,"Healthy small male with babies. Looks good, a little thin but not bad
+
+T60 hemoglobin 9.2,10.1
+T60 hematocrit 49,51",2,Y,12,21,33,151,60,166,22,31,0,7,3,10,0,1,63,239,0.251046025,0.694560669,0.092050209,0.129707113,0,0.029288703,0.012552301,0.041841004,0,0.361445783,0.132075472,1.727272727,#DIV/0!,3.333333333,3872.963,4%
+762_Bridge,2020,11/21/2020,Hatching,659062,9.75,nester,8.2,8.4,8.3,10.1,11.1,10.6,2.3,33,34,33.5,47,48,47.5,14,1,Yes,44.7,29,570,y,n,Run/Glide,nest box,-21,41.5,1,1,0,1,"T60 hemoblobin 10.1,11.1
+T60 hematocrit  47,48
+
+Healthy male, nest looks like it may failed, no babies visible",0,Y,9,10,19,226,231,183,122,83,4,22,22,6,1,0,63,443,0.521444695,0.413092551,0.275395034,0.187358916,0.009029345,0.0496614,0.0496614,0.013544018,0.002257336,1.262295082,0.126829268,0.833333333,5.5,0.272727273,3992.8745,6%
+Buller Hatchery,2020,4/7/2021,Emergence,563905,12.80833333,nester,7.9,8.3,8.1,10.7,11.8,11.25,3.15,35,35,35,48,49,48.5,13.5,1,Yes,45.2,28,440,y,n,Run/Glide,nest box,319,39.1,0,0,0,0,"Male in box, looks a little thin, not too bad, but not fat. Pooped in Bin
+
+No larvae, failed
+
+T60 hemoglobin 10.7,11.8 (dark red blood)
+T60 hematocrit 48,49",0,Y,26,19,45,129,86,161,39,44,0,3,12,9,0,1,63,268,0.320895522,0.600746269,0.145522388,0.164179104,0,0.01119403,0.044776119,0.03358209,0,0.534161491,0.036144578,1.205128205,#DIV/0!,0.75,4032.845,3%
+Buller Hatchery,2020,4/7/2021,Emergence,565092,12.80833333,nester,7.9,8.1,8,8.9,8.2,8.55,0.55,34,33,33.5,40,38,39,5.5,0,Yes,39.4,25.2,380,n,n,Run/Glide,nest box,325,41.5,1,1,0,1,"Healthy male with nest of larvae
+
+T60 hemoglobin 8.9,8.2
+T60 hematocrit 40, 48",1,Y,5,9,14,149,58,193,16,32,0,10,28,17,1,0,63,297,0.195286195,0.64983165,0.053872054,0.107744108,0,0.033670034,0.094276094,0.057239057,0.003367003,0.300518135,0.208333333,2.625,#DIV/0!,0.607142857,3992.8745,4%
+762_Bridge,2020,4/8/2021,Emergence,434405,12.03,nester,8.1,7.8,7.95,10.2,10.6,10.4,2.45,31,31,31,48,49,48.5,17.5,1,No,41.6,26.9,410,n,n,Run/Glide,nest box,424,43.6,1,1,1,2,"Male in failed nest. NOT the original father of this box (was the dad of box -138)
+Putative dad gone
+
+No larvae visible in box FAILED
+
+Hemaglobin T60 10.2, 10.6
+Hematocrit T60 48,49",2,Y,77,60,137,219,91,289,19,62,0,10,46,44,0,6,63,470,0.193617021,0.614893617,0.040425532,0.131914894,0,0.021276596,0.09787234,0.093617021,0,0.314878893,0.12345679,3.789473684,#DIV/0!,0.956521739,3926.257,6%
+762_Bridge,2020,4/8/2021,Emergence,674701,12.03,nester,9.1,9.6,9.35,10.7,11.1,10.9,1.55,39,39,39,46,47,46.5,7.5,1,Yes,43.5,28.3,590,n,n,Run/Glide,nest box,402,36.4,4,0,0,0,"Healthy male with larvae- looks great and really fat. Stomach full but no crayfish. Very large leeches!
+
+T60 hemoglobin 10.7, 11.1
+T60 hematocrit 46,47",6,Y,4,9,13,291,176,217,139,29,2,6,64,25,1,0,63,483,0.364389234,0.449275362,0.287784679,0.060041408,0.004140787,0.01242236,0.132505176,0.051759834,0.002070393,0.811059908,0.047619048,0.24822695,3,0.390625,4139.433,7%
+762_Bridge,2020,4/8/2021,Emergence,570A13,12.03,nester,8.4,8.3,8.35,10.9,10.5,10.7,2.35,39,39,39,43,44,43.5,4.5,0,Yes,48.3,30.2,700,n,n,Run/Glide,nest box,-193,49.5,0,0,0,0,"T60 hemoglobin 10.9,10.5
+T60 hematocrit 43,44
+
+Healthy male with nest and larvae
+pooped in bin",1,Y,8,7,15,364,167,250,96,58,1,12,41,24,0,1,63,482,0.346473029,0.518672199,0.199170124,0.12033195,0.002074689,0.024896266,0.085062241,0.049792531,0,0.668,0.084415584,0.721649485,12,0.585365854,4139.433,9%
+Thomas Bridge,2020,4/9/2021,Emergence,557083,14.20833333,nester,11.6,10.4,11,10.7,12,11.35,0.35,44,48,46,48,49,48.5,2.5,1,Yes,42.9,27.4,495,n,n,Run/Glide,CAMERABOX,-221,59,0,0,0,0,"T60 hemoglobin 10.7,12 (very dark)
+T60 hematocrit 60,60
+
+Healthy male with lots of larvae. Pooped in bin- crayfish parts in poop",0,Y,2,3,5,7,68,117,25,26,1,16,16,10,2,0,63,213,0.319248826,0.549295775,0.117370892,0.122065728,0.004694836,0.075117371,0.075117371,0.046948357,0.009389671,0.581196581,0.333333333,1.615384615,16,0.625,4325.962,0%
+Thomas Bridge,2020,4/9/2021,Emergence,557769,14.20833333,nester,10.3,11.4,10.85,11.5,12.3,11.9,1.05,47,48,47.5,55,56,55.5,8,1,Yes,45.4,30.4,660,y,n,Run/Glide,nest box,-332,40,0,0,0,0,"T60 hemoglobin 11.5, 12.3
+T60 hematocrit 55,56
+
+Healthy fat male with larvae- very heavy body
+
+Bright yellow (lipid-rich) plasma",0,Y,19,9,28,107,60,188,23,23,0,14,33,10,0,2,63,291,0.206185567,0.64604811,0.079037801,0.079037801,0,0.048109966,0.113402062,0.034364261,0,0.319148936,0.304347826,1.608695652,#DIV/0!,0.303030303,4365.9325,2%
+Thomas Bridge,2020,4/9/2021,Emergence,565923,14.20833333,nester,9,10.2,9.6,12.5,13,12.75,3.15,41,43,42,48,49,48.5,6.5,1,Yes,41.3,26.8,530,y,n,Run/Glide,nest box,338,36.5,0,0,0,0,"T60 Hemoglobin 12.5,13
+T60 hematocrit 48,49
+
+Healthy male with larvae, pooped in bin. Lots of crayfish in gut",1,N,0,0,0,344,71,252,41,22,2,6,40,12,0,0,63,375,0.189333333,0.672,0.109333333,0.058666667,0.005333333,0.016,0.106666667,0.032,0,0.281746032,0.126984127,0.651162791,3,0.3,4219.374,8%
+RiversideCC,2020,4/10/2021,Emergence,567248,14.16388889,nester,9.7,9.8,9.75,10.3,10,10.15,0.4,43,44,43.5,51,50,50.5,7,0,Yes,37.5,24.4,310,n,n,Run/Glide,CAMERA BOX,431,83,1,0,0,1,"T60 hemoglobin 10.3, 10
+T60 hematocrit 51,50
+
+Healthy small male in camera box with nest and larvae",3,Y,46,30,76,370,82,235,41,26,6,9,45,44,1,2,64,407,0.201474201,0.577395577,0.100737101,0.063882064,0.014742015,0.022113022,0.110565111,0.108108108,0.002457002,0.34893617,0.223880597,0.744680851,1.5,0.977777778,4259.3445,9%
+RiversideCC,2020,4/10/2021,Emergence,567422,14.16388889,nester,9.8,10.8,10.3,11.2,11.9,11.55,1.25,41,42,41.5,60,59,59.5,18,1,Yes,41.2,26.5,365,n,y,Run/Glide,nest box,530,49,0,0,0,0,"T60 hemoglobin 11.2, 11.9
+T60 hematocrit 60,59
+
+Adult male with larvae. Nematode not sure if it's one or two",2,Y,30,15,45,188,47,225,36,11,0,0,51,18,0,1,64,341,0.137829912,0.659824047,0.105571848,0.032258065,0,0,0.149560117,0.052785924,0,0.208888889,0,0.305555556,#DIV/0!,0.352941176,4206.0505,4%
+Buller Hatchery,2020,4/20/2021,Emergence,083242,10.93611111,nester,8.6,8.8,8.7,8.6,9.5,9.05,0.35,34,37,35.5,42,39,40.5,5,1,Yes,45.8,29.9,645,n,n,Run/Glide,CAMERA BOX,8,64,0,0,0,0,"T60 hemoglobin 8.6, 9.5
+T60 hematocrit 42,39
+
+Healthy male with larvae. Huge crayfish in gut. Looks great. Quite slimy",1,Y,35,51,86,89,102,138,31,43,1,27,21,9,2,5,64,272,0.375,0.507352941,0.113970588,0.158088235,0.003676471,0.099264706,0.077205882,0.033088235,0.007352941,0.739130435,0.378378378,2.1875,27,0.428571429,4046.1685,2%
