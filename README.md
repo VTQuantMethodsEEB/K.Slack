@@ -71,7 +71,7 @@
 #I developed linear models with multiple variables to determine significant relationships between blood metrics and season. I then developed additive models to evaluate if nesting status influenced blood metrics in addition to seasonal effects. I then made an interactive model to see if the change in hematocrit between T0 and T60 depended on mass and presence of open wounds. I plotted my additive model using the predict function. However, I kept getting errors when I tried using the predict function for the interactive model. While my code would not run, I still included the code I would have used to plot the interactive model. 
 
 ##Week 10##
-#code: Slack_week10and11.
+#code: Slack_week10and11.R
 #data:20_21Waterandblood.csv
 
 #RESULTS
@@ -80,7 +80,19 @@
 
 
 ##Week 11##
-#code: Slack_week10and11.
+#code: Slack_week10and11.R
 #data:20_21Waterandblood.csv
 
 #I used likelihood ratio tests and AIC tests to compare models in order to determine if sampling day, leeches, and open wounds have an effect on baseline hematocrit. Both methods delivered similar results in terms of model ranking, however likelihood ratio was more informative in regard to identifying significant factors. 
+
+
+
+##Week 12## 
+#code: week12_KSlack.R
+#data:fullblood2020.csv
+
+#I performed a series of mixed effects models to determine if stress and seasonal effects influence red blood cell physiology. I used the likelihood ratio tests and AIC tests to determine what predictors are most informative on the outcome of hematocrit and hemoglobin. I found that there are significant effects of both acute stress and season on blood metrics.
+
+
+
+
