@@ -21,7 +21,9 @@ blooddat$Site[blooddat$Site == '762_Bridge']<- '762'
 blooddat$Site[blooddat$Site == 'RiversideCC']<- 'Riverside'
 blooddat$Site[blooddat$Site == 'TB']<-'Thomas Bridge'
 list(blooddat$Site) 
-bloodclean= select(blooddat, c(1, 2, 3, 4, 8, 11, 14, 15, 18, 21, 22, 23, 24, 25, 26, 27, 28, 29))
+
+#i wouldn't recommend subsetting by columns like this because if your columns change names, it can be a problem
+bloodclean= dplyr::select(blooddat, c(1, 2, 3, 4, 8, 11, 14, 15, 18, 21, 22, 23, 24, 25, 26, 27, 28, 29))
 list(bloodclean)
 bloodclean= na.omit(bloodclean)
 library(car)
@@ -34,12 +36,16 @@ library(car)
 ## interactive model looking at the number of leeches 
 glm1= glm(Mean_T0Hct~Leeches_Total*sampling.day,data=bloodclean, family="poisson");
 summary(glm1)
+#your y-varible here is Mean_T0Hct, which doesn't appear to be Poission distributed
+#i think we had a conversation about this which you were thinking because you included
+#leeches that you needed to correct for this, but you dont 
 
 #this is count data with many zeros so I am checking for over dispersion
 dispersiontest(glm1)
 #my dispersion test showed my dispersion was 1.24 which is >1 so I am going to use a negative binomial 
 glm2 = glm.nb(Mean_T0Hct~Leeches_Total*sampling.day, data=bloodclean)
 summary(glm2) 
+#same here- your y variable is not a count variable
 #comparing variable interactions
 plot(allEffects(glm2))
 #2) Explain the R output in relation to the hypothesis (use emmeans, effect, relevel, and predict). Include the explanation in the code.
@@ -81,6 +87,12 @@ plot1
 #1. Likelihood ratio tests and one other model selection approach to test 3 models (LM or GLMS)
 
 #GLM models influencing baseline hematocrit
+
+#these have different distributions which is a problem
+#you want to use the same distribution here to compare if you 
+#are swapping variables
+hist(bloodclean$Mean_T0Hct)
+#this looks like a normal distribution is probably best
 
 m1 = glm(Mean_T0Hct~1,data = bloodclean) #null model
 m2 = glm(Mean_T0Hct~sampling.day,data = bloodclean)
