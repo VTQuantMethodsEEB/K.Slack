@@ -5,6 +5,8 @@ library(ggplot2)
 
 #read in data
 blooddat= read.csv("C:/Users/Katey Slack/Desktop/class stuff/QuantMethods/K.Slack/20_21Waterandblood.csv")
+#need to read in directory free
+blooddat= read.csv("20_21Waterandblood.csv")
 
 #looking at the structure
 str(blooddat)
